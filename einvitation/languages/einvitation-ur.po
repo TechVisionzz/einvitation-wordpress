@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: einvitation\n"
+"POT-Creation-Date: 2022-05-26 07:14+0500\n"
+"PO-Revision-Date: 2022-05-26 07:14+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ur\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/ei-posttypes/event/eventposttype.php:11
+msgid "Events"
+msgstr "واقعات"
+
+#: admin/ei-posttypes/event/eventposttype.php:12
+#: admin/ei-posttypes/event/eventposttype.php:14
+msgid "Event"
+msgstr "احوال"
+
+#: admin/ei-posttypes/event/eventposttype.php:13
+msgid "einvitation"
+msgstr "ای دعوت"
+
+#: admin/ei-posttypes/event/eventposttype.php:15
+msgid "Add New"
+msgstr "نیا اضافہ کریں"
+
+#: admin/ei-posttypes/event/eventposttype.php:16
+msgid "Add New Event"
+msgstr "نیا واقعہ شامل کریں"
+
+#: admin/ei-posttypes/event/eventposttype.php:17
+msgid "New Event"
+msgstr "نیا واقعہ"
+
+#: admin/ei-posttypes/event/eventposttype.php:18
+msgid "Edit Event"
+msgstr "واقعہ تدوین کریں"
+
+#: admin/ei-posttypes/event/eventposttype.php:19
+msgid "View Event"
+msgstr "منظر واقعہ"
+
+#: admin/ei-posttypes/event/eventposttype.php:20
+msgid "All Events"
+msgstr "تمام واقعات"
+
+#: admin/ei-posttypes/event/eventposttype.php:21
+msgid "Search Events"
+msgstr "تلاش واقعات"
+
+#: admin/ei-posttypes/event/eventposttype.php:22
+#, fuzzy
+#| msgid "Parent Events:"
+msgid "Parent Events"
+msgstr "والدین کے واقعات:"
+
+#: admin/ei-posttypes/event/eventposttype.php:23
+#, fuzzy
+#| msgid "No Events found."
+msgid "No Events found"
+msgstr "کوئی واقعات نہیں ملے۔"
+
+#: admin/ei-posttypes/event/eventposttype.php:24
+#, fuzzy
+#| msgid "No Events found in Trash."
+msgid "No Events found in Trash"
+msgstr "کوڑے دان میں کوئی ایونٹ نہیں ملا۔"
+
+#: admin/ei-posttypes/event/eventposttype.php:25
+msgid "Event Cover Image"
+msgstr "ایونٹ کور امیج"
+
+#: admin/ei-posttypes/event/eventposttype.php:26
+msgid "Set cover image"
+msgstr "کور امیج سیٹ کریں۔"
+
+#: admin/ei-posttypes/event/eventposttype.php:27
+msgid "Remove cover image"
+msgstr "کور کی تصویر کو ہٹا دیں۔"
+
+#: admin/ei-posttypes/event/eventposttype.php:28
+msgid "Use as cover image"
+msgstr "کور امیج کے طور پر استعمال کریں۔"
+
+#: admin/ei-posttypes/event/eventposttype.php:29
+msgid "Event archives"
+msgstr "ایونٹ آرکائیوز"
+
+#: admin/ei-posttypes/event/eventposttype.php:30
+msgid "Insert into Event"
+msgstr "ایونٹ میں داخل کریں۔"
+
+#: admin/ei-posttypes/event/eventposttype.php:31
+msgid "Uploaded to this Event"
+msgstr "اس ایونٹ میں اپ لوڈ کیا گیا۔"
+
+#: admin/ei-posttypes/event/eventposttype.php:32
+msgid "Filter Events list"
+msgstr "واقعات کی فہرست کو فلٹر کریں۔"
+
+#: admin/ei-posttypes/event/eventposttype.php:33
+msgid "Events list navigation"
+msgstr "واقعات کی فہرست نیویگیشن"
+
+#: admin/ei-posttypes/event/eventposttype.php:34
+msgid "Events list"
+msgstr "واقعات کی فہرست"
+
+#: admin/ei-posttypes/event/textboxes.php:97
+msgid "Event Category"
+msgstr "ایونٹ کا زمرہ"
+
+#: admin/ei-posttypes/event/textboxes.php:99
+msgid "Please Select"
+msgstr "براہ مہربانی منتخب کریں"
+
+#: admin/ei-posttypes/event/textboxes.php:101
+msgid "corporate"
+msgstr "کارپوریٹ"
+
+#: admin/ei-posttypes/event/textboxes.php:103
+msgid "Gala or Fundraiser"
+msgstr "گالا یا فنڈ ریزر"
+
+#: admin/ei-posttypes/event/textboxes.php:105
+msgid "Show or Performance"
+msgstr "دکھائیں یا کارکردگی"
+
+#: admin/ei-posttypes/event/textboxes.php:107
+msgid "Wedding"
+msgstr "شادی"
+
+#: admin/ei-posttypes/event/textboxes.php:109
+msgid "Reunion"
+msgstr "ری یونین"
+
+#: admin/ei-posttypes/event/textboxes.php:111
+msgid "Holiday Party"
+msgstr "چھٹی پارٹی"
+
+#: admin/ei-posttypes/event/textboxes.php:113
+msgid "Military"
+msgstr "فوجی"
+
+#: admin/ei-posttypes/event/textboxes.php:115
+msgid "BirthDay"
+msgstr "سالگرہ"
+
+#: admin/ei-posttypes/event/textboxes.php:117
+msgid "Faith Based"
+msgstr "ایمان کی بنیاد پر"
+
+#: admin/ei-posttypes/event/textboxes.php:119
+msgid "other"
+msgstr "دوسرے"
+
+#: admin/ei-posttypes/event/textboxes.php:123
+msgid "Event Type"
+msgstr "واقعہ کی قسم"
+
+#: admin/ei-posttypes/event/textboxes.php:126
+msgid "public"
+msgstr "عوام"
+
+#: admin/ei-posttypes/event/textboxes.php:128
+msgid "private"
+msgstr "نجی"
+
+#: admin/ei-posttypes/event/textboxes.php:140
+#: admin/ei-posttypes/event/textboxes.php:163
+#: admin/ei-posttypes/event/textboxes.php:189
+#: admin/ei-posttypes/event/textboxes.php:454
+msgid "start time"
+msgstr "وقت آغاز"
+
+#: admin/ei-posttypes/event/textboxes.php:143
+#: admin/ei-posttypes/event/textboxes.php:166
+#: admin/ei-posttypes/event/textboxes.php:191
+#: admin/ei-posttypes/event/textboxes.php:454
+msgid "end time"
+msgstr "اختتامی وقت"
+
+#: admin/ei-posttypes/event/textboxes.php:153
+#: admin/ei-posttypes/event/textboxes.php:170
+#: admin/ei-posttypes/event/textboxes.php:195
+#: admin/ei-posttypes/event/textboxes.php:454
+msgid "latitude"
+msgstr "طول"
+
+#: admin/ei-posttypes/event/textboxes.php:156
+#: admin/ei-posttypes/event/textboxes.php:173
+#: admin/ei-posttypes/event/textboxes.php:197
+#: admin/ei-posttypes/event/textboxes.php:454
+msgid "longitude"
+msgstr "طول البلد"
+
+#: admin/ei-posttypes/event/textboxes.php:175
+#: admin/ei-posttypes/event/textboxes.php:454
+msgid "Delete"
+msgstr "حذف کریں۔"
+
+#: admin/ei-posttypes/event/textboxes.php:183
+#: admin/ei-posttypes/event/textboxes.php:201
+msgid "Add more Time & Location"
+msgstr "مزید وقت اور مقام شامل کریں۔"
+
+#: admin/ei-posttypes/event/textboxes.php:193
+msgid "Select Location"
+msgstr "مقام منتخب کریں۔"
+
+#: admin/ei-posttypes/event/textboxes.php:207
+msgid "Event Tags"
+msgstr "ایونٹ ٹیگز"
+
+#: admin/ei-posttypes/event/textboxes.php:211
+msgid "Event Receiver"
+msgstr "واقعہ وصول کنندہ"
+
+#: admin/ei-taxonomies/contact/contact.php:5
+msgid "contacts"
+msgstr "رابطے"
+
+#: admin/ei-taxonomies/contact/contact.php:6
+#: admin/ei-taxonomies/contact/contact.php:15
+msgid "contact"
+msgstr "رابطہ"
+
+#: admin/ei-taxonomies/contact/contact.php:7
+msgid "Search contacts"
+msgstr "Search contacts"
+
+#: admin/ei-taxonomies/contact/contact.php:8
+msgid "All contacts"
+msgstr "تمام رابطے"
+
+#: admin/ei-taxonomies/contact/contact.php:9
+#: admin/ei-taxonomies/contact/contact.php:10
+msgid "Parent contact"
+msgstr "والدین کا رابطہ"
+
+#: admin/ei-taxonomies/contact/contact.php:11
+msgid "Edit contact"
+msgstr "رابطے میں ترمیم کریں۔"
+
+#: admin/ei-taxonomies/contact/contact.php:12
+msgid "Update contact"
+msgstr "Update contact"
+
+#: admin/ei-taxonomies/contact/contact.php:13
+msgid "Add New contact"
+msgstr "نیا رابطہ شامل کریں۔"
+
+#: admin/ei-taxonomies/contact/contact.php:14
+msgid "New contact Name"
+msgstr "رابطہ کا نیا نام"
+
+#: admin/ei-taxonomies/contact/textboxes.php:9
+#: admin/ei-taxonomies/contact/textboxes.php:33
+msgid "Email"
+msgstr "ای میل"
+
+#: admin/ei-taxonomies/contact/textboxes.php:13
+#: admin/ei-taxonomies/contact/textboxes.php:42
+msgid "contact number"
+msgstr "رابطہ نمبر"
+
+#: public/event/event.php:261
+msgid "My Events"
+msgstr "میرے واقعات"
+
+#: public/event/event.php:268 public/event/event.php:274
+msgid "Current Events"
+msgstr "موجودہ واقعات"
+
+#: public/event/event.php:270 public/event/event.php:373
+msgid "Past Events"
+msgstr "ماضی کے واقعات"
+
+#: public/event/event.php:292 public/event/event.php:453
+msgid "No Public Event is available"
+msgstr "کوئی عوامی تقریب دستیاب نہیں ہے۔"
+
+#: public/event/event.php:390
+msgid "No Past Event is available"
+msgstr "کوئی ماضی کا واقعہ دستیاب نہیں ہے۔"
+
+#: public/event/event.php:441
+msgid "Public Events"
+msgstr "عوامی تقریبات"
+
+#~ msgid "Parent contact:"
+#~ msgstr "والدین کا رابطہ:"
+
+#~ msgid "Public"
+#~ msgstr "عوام"
+
+#~ msgid "Private"
+#~ msgstr "نجی"
+
+#~ msgid "Welcome to my plugin"
+#~ msgstr "میرے پلگ ان میں خوش آمدید"
+
+#~ msgid "Hello World"
+#~ msgstr "ہیلو ورلڈ"
